@@ -1,4 +1,4 @@
-# Heart Failure Classification Using KNN and SMOTE for imbalanced data
+# Predicting Heart Failure (An example of Binary Classification case)
 
 [You can read the Medium Article here!](https://apricitea.medium.com/an-introduction-to-machine-learning-predicting-heart-failure-using-binary-classification-and-a992c585b92d)
 
