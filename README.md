@@ -41,4 +41,5 @@ Shen L, Lin Z, Huang Q. 2016. Relay Backpropagation for Effective Learning of De
 The George Institute for Global Health. 2017. Reducing the burden of Cardiovascular Disease in Indonesia. [diakses 2021 Des 19]. www.georgeinstitute.org.au.
 
 Wibowo F, Hakim DK, Sugiyanto S. 2018. PENDUGAAN KELAS MUTU BUAH PEPAYA BERDASARKAN CIRI TEKSTUR GLCM MENGGUNAKAN ALGORITMA K-NEAREST NEIGHBORS. Jurnal Nasional Pendidikan Teknik Informatika. 7(1): 100–107.
+
 Zhang Z. 2016. Introduction to machine learning: k-nearest neighbors. Hemodial Int J Transl Med.
