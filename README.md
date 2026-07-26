@@ -28,18 +28,4 @@ The classification model used in this project is KNN (which is a simple, easy-to
 
 ## Reference
 
-Chicco D, Jurman G. 2020. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making.
-
-Jian C, Gao J, Ao Y. 2016. A new sampling method for classifying imbalanced data based on support vector machine ensemble. Neurocomputing. 193(6): 115–122.
-
-Sanguanmak Y, Hanskunatai A. 2016. Auto-tuning of parameters in hybrid sampling method for class imbalance problem. 2016 International Computer Science and Engineering Conference (ICSEC). Chiang Mai, Thailand: IEEE.
-
-Saputro IW, Sari BW. 2019. Uji Performa Algoritma Naïve Bayes untuk Prediksi Masa Studi Mahasiswa. Creative Information Technology Journal. 6(1): 1–11.
-
-Shen L, Lin Z, Huang Q. 2016. Relay Backpropagation for Effective Learning of Deep Convolutional Neural Networks. European Conference on Computer Vision (ECCV 2016) (Hal. 467–482). Cham: Springer.
-
-The George Institute for Global Health. 2017. Reducing the burden of Cardiovascular Disease in Indonesia. [diakses 2021 Des 19]. www.georgeinstitute.org.au.
-
-Wibowo F, Hakim DK, Sugiyanto S. 2018. PENDUGAAN KELAS MUTU BUAH PEPAYA BERDASARKAN CIRI TEKSTUR GLCM MENGGUNAKAN ALGORITMA K-NEAREST NEIGHBORS. Jurnal Nasional Pendidikan Teknik Informatika. 7(1): 100–107.
-
-Zhang Z. 2016. Introduction to machine learning: k-nearest neighbors. Hemodial Int J Transl Med.
+Chicco D, Jurman G. 2020. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16.
