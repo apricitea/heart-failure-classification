@@ -2,6 +2,12 @@
 
 [You can read the Medium Article here!](https://apricitea.medium.com/an-introduction-to-machine-learning-predicting-heart-failure-using-binary-classification-and-a992c585b92d)
 
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Data Source
 
 The current version of the dataset was elaborated by Davide Chicco (Krembil Research Institute, Toronto, Canada) and donated to the University of California Irvine Machine Learning Repository under the same Attribution 4.0 International (CC BY 4.0) copyright in January 2020. A detailed description of the dataset can be found in the Dataset section of the following paper: Davide Chicco, Giuseppe Jurman: "Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone". BMC Medical Informatics and Decision Making 20, 16 (2020).
